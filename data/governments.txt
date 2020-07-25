@@ -9,9 +9,18 @@
 # PARTICULAR PURPOSE.  See the GNU General Public License for more details.
 
 government "Korath"
+	swizzle 0
+	color .8 .5 .1
+	"crew attack" 1.4
+	"crew defense" 2.6
+	language "Korath"
+	
 	"attitude toward"
+		"Kor Sestor" -.01
 		"Akashic" -.1
 		"Sankrit" -.1
+	
+	"player reputation" -10
 
 government "Akashic"
 	color 0 .60 .50
@@ -52,5 +61,4 @@ government "Lemurian"
 		"Quarg" -.1
 		"Korath" -.1
 		"Akashic" -.1
-		"Sankrit" -.1
-		
+		"Sankrit" -.1	
