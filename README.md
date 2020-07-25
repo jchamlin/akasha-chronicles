@@ -1,12 +1,27 @@
 # Akasha Chronicles
-A plugin for [Endless Sky][endless-sky] that adds a complete storyline with new alien factions. Original author: Gillax.
+A plugin for [Endless Sky][endless-sky] that adds a complete storyline with new alien factions.
 
+Original author: Gillax.
 Original source: https://www.reddit.com/r/endlesssky/comments/5lw3oy/plugin_akasha_chronicles_release/
 
 ![image][image]
 
 [endless-sky]: https://github.com/endless-sky/endless-sky
 [image]: images/planet/akasha.png
+
+Akasha Chronicles is a progressive storyline giving you access to new technology and ships over time.
+
+Featuring:
+* New Goverments
+* 16 New Ships
+* 30 New Outfits and Weapons
+* Storyline with around 30 Missions with lots of dialog and choices (hope you will make the right ones)
+* 40 New Systems, Planets, Land and event sprites to bring a fitting atmosphere for the story (google images)
+* Some hidden outfits which you can get during missions (going places you perhaps shouldn't)
+* Changing Environment
+
+You can start the storyline in the Kor Efret Space (the nice Koraths) after you finish the Wanderers storyline. 
+The difficulty should be a good fit for people who are done with the Wanderers storyline.
 
 ## Installation
 You must create a "plugins" folder in one of two places, depending on your operating system:
